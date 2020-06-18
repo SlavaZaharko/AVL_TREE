@@ -1,0 +1,13 @@
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.exe
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.deps.json
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.runtimeconfig.json
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.runtimeconfig.dev.json
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.dll
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\bin\Debug\netcoreapp3.1\AVLTree_Remove.pdb
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.csprojAssemblyReference.cache
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.csproj.CoreCompileInputs.cache
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.AssemblyInfoInputs.cache
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.AssemblyInfo.cs
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.dll
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.pdb
+D:\учеба\TREE\AVL_TREE\AVLTree_Remove\obj\Debug\netcoreapp3.1\AVLTree_Remove.genruntimeconfig.cache

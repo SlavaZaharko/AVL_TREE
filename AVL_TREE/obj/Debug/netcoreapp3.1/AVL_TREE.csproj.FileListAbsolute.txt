@@ -1,0 +1,13 @@
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.csprojAssemblyReference.cache
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.csproj.CoreCompileInputs.cache
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.AssemblyInfoInputs.cache
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.AssemblyInfo.cs
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.exe
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.deps.json
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.runtimeconfig.json
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.runtimeconfig.dev.json
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.dll
+D:\учеба\TREE\AVL_TREE\AVL_TREE\bin\Debug\netcoreapp3.1\AVL_TREE.pdb
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.dll
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.pdb
+D:\учеба\TREE\AVL_TREE\AVL_TREE\obj\Debug\netcoreapp3.1\AVL_TREE.genruntimeconfig.cache
